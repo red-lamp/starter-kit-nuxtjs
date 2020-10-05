@@ -15,18 +15,18 @@
     "@feathersjs/configuration": "^2.0.6",
     "@feathersjs/express": "^1.3.1",
     "@feathersjs/feathers": "^3.3.1",
-    "@nuxt/typescript-build": "^0.5.4",
-    "@nuxtjs/axios": "^5.9.0",
-    "@nuxtjs/pwa": "^3.0.0-beta.19",
+    "@nuxt/typescript-build": "^0.5.8",
+    "@nuxtjs/axios": "^5.12.2",
+    "@nuxtjs/pwa": "^3.0.2",
     "cross-env": "^5.2.0",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.14.6"
   },
   "devDependencies": {
-    "nodemon": "^1.18.9",
-    "@nuxtjs/vuetify": "^1.0.0",
-    "@vue/test-utils": "^1.0.0-beta.27",
+    "@nuxtjs/vuetify": "^1.11.2",
+    "@vue/test-utils": "^1.1.0",
     "babel-jest": "^24.1.0",
     "jest": "^24.1.0",
-    "vue-jest": "^4.0.0-0"
+    "nodemon": "^1.18.9",
+    "vue-jest": "^4.0.0-rc.0"
   }
 }
